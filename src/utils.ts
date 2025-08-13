@@ -1,7 +1,7 @@
 import { EVENT_TYPE } from "./type";
 import dotenv from "dotenv";
 
-dotenv.config();
+dotenv.config({ quiet: true });
 
 const secretKey = process.env.SECRET_KEY;
 
