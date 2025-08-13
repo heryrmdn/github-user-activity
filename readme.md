@@ -47,3 +47,5 @@ Hery Rhamadan
 
 Inspiration, code snippets, etc.
 * [roadmap.sh](https://roadmap.sh/projects/github-user-activity)
+
+![Image](https://github.com/user-attachments/assets/93728d63-28cb-4b47-871e-b20d7ef7a76e)
