@@ -26,7 +26,6 @@ yarn
 ### Executing program
 
 * How to run the program
-* Step-by-step bullets
 ```
 yarn build
 npm link
