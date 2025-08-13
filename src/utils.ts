@@ -5,7 +5,7 @@ dotenv.config({ quiet: true });
 
 const secretKey = process.env.SECRET_KEY;
 
-export async function getUserEvents(username: string, per_page: number = 5, page: number = 1) {
+export async function getUserEvents(username: string, per_page: number = 20, page: number = 1) {
   const params = new URLSearchParams();
   params.append("per_page", per_page.toString());
   params.append("page", page.toString());
